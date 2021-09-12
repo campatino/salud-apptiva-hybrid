@@ -1,5 +1,2 @@
-$color: yellow;
-
-body {
-  background-color: $color;
-}
+@use "general";
+@use "login";
