@@ -8,6 +8,11 @@ body {
   padding-right: 30%;
 }
 
+.i-container {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
 .text-input {
   width: 100%;
   margin: 5px 0px;
@@ -76,7 +81,14 @@ body {
 
 .main {
   margin-left: 180px;
-  padding: 0px 10px;
+  height: calc(100vh - 35px);
+  width: calc(100vw - 195px);
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
 }
 
 .logo-container {
