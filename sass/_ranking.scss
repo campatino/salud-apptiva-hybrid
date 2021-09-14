@@ -1,0 +1,22 @@
+@import "variables";
+
+.high-rank {
+  font-size: 38px;
+}
+
+.low-rank {
+  font-size: 25px;
+}
+
+.medal {
+  position: relative;
+  width: 50px;
+  top: 10px;
+}
+
+.ranking-avatar {
+  position: relative;
+  width: 50px;
+  border-radius: 25px;
+  top: 10px;
+}
