@@ -1,2 +1,26 @@
 @import "variables";
 
+.counter-container {
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  background-color: $green-color;
+  border: 1px solid;
+  border-radius: 15px;
+}
+
+.number-style {
+  font-size: 38px;
+  margin-top: 0px;
+}
+
+.smiley {
+  width: 40px;
+  float: right;
+}
+
+.hr-label {
+  top: 26px;
+  position: relative;
+  z-index: -1;
+}
