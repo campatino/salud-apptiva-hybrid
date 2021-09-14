@@ -20,6 +20,6 @@ $(document).ready(function() {
   });
 
   $("#pauseButton").click(function() {
-    alert("6");
+    document.location.href = "active-pause.html";
   });
 });

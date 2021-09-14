@@ -213,3 +213,8 @@ iframe {
   width: 250px;
   border-radius: 15px;
 }
+
+.button-adjust {
+  width: 250px;
+  margin-bottom: 20px;
+}
